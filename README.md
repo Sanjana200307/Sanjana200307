@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
-</p>
 
 <h1 align="center">Hi 👋, I'm Sanjana B S</h1>
 <h3 align="center">Software Engineer | Full Stack Developer | frontend developers | Data analyst | Backend Enthusiast</h3>
@@ -29,13 +26,13 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjana200307&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Sanjana200307&show_icons=true&theme=tokyonight" />
 
-  <img src="https://streak-stats.demolab.com?user=Sanjana200307&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Sanjana200307&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjana200307&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Sanjana200307&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -69,7 +66,7 @@
 ## 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,xampp,postman,"/>
 </p>
 
 ---
@@ -81,24 +78,17 @@
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/sanjanabs">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:sanjanasanju07003@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sanjana200307&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## 📈 Contribution Graph
 
@@ -111,7 +101,6 @@
 <p align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </p>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
 
 
